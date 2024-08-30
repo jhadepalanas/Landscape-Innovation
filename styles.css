@@ -11,6 +11,7 @@ h1 {
     font-family: "McLaren", sans-serif;
     font-weight: 400;
     font-style: normal;
+    background-color: #B5D9BF;
 }
 
 p {
@@ -33,13 +34,25 @@ img {
 }
 
 nav {
+    color: #FFFCAB;
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: <weight>; 
     font-style: normal;
+    background-color: #385936;
+    text-align: center;
 }
 
+footer {
+    background-color: #385936;
+    text-align: center;
+}
 
+.contactdiv {
+    border: 5px outset red;
+    background-color: lightblue;    
+    text-align: center;
+  }
 
 
 
